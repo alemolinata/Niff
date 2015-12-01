@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: 4918c5f1787774a3e8c1cf8138a9af30
+timeCreated: 1448930299
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_0
+    21300002: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_1
+    21300004: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_2
+    21300006: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_3
+    21300008: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_4
+    21300010: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_5
+    21300012: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_6
+    21300014: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_7
+    21300016: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_8
+    21300018: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_9
+    21300020: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_10
+    21300022: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_11
+    21300024: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_12
+    21300026: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_13
+    21300028: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_14
+    21300030: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_15
+    21300032: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_16
+    21300034: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_17
+    21300036: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_18
+    21300038: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_19
+    21300040: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_20
+    21300042: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_21
+    21300044: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_22
+    21300046: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_23
+    21300048: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_24
+    21300050: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_25
+    21300052: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_26
+    21300054: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_27
+    21300056: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_28
+    21300058: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_29
+    21300060: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_30
+    21300062: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_31
+    21300064: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_32
+    21300066: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_33
+    21300068: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_34
+    21300070: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_35
+    21300072: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_36
+    21300074: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_37
+    21300076: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_38
+    21300078: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_39
+    21300080: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_40
+    21300082: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_41
+    21300084: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_42
+    21300086: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_43
+    21300088: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_44
+    21300090: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_45
+    21300092: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_46
+    21300094: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_47
+    21300096: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_48
+    21300098: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_49
+    21300100: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_50
+    21300102: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_51
+    21300104: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_52
+    21300106: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_53
+    21300108: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_54
+    21300110: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_55
+    21300112: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_56
+    21300114: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_57
+    21300116: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_58
+    21300118: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2800
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2800
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2800
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2800
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_5
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2800
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_6
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2800
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2450
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_9
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2450
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2450
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_11
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2450
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_12
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2450
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_13
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2450
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2100
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2100
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_17
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2100
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_18
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2100
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_19
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2100
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2100
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1750
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1750
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_24
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1750
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_25
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1750
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_26
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1750
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_27
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1750
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1400
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_30
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1400
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1400
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_32
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1400
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_33
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1400
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_34
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1400
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1050
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1050
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_38
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1050
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_39
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1050
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_40
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1050
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_41
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1050
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 700
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_44
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_45
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 700
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_46
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 700
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 700
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_48
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 700
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_51
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 350
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_52
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 350
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_53
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 350
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_54
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 350
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_55
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 350
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_58
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_WrongPlacement_onGround_Walk_and_Fly_#[350,350]_59
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
