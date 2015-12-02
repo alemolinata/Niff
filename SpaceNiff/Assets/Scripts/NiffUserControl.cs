@@ -9,10 +9,13 @@ public class NiffUserControl : MonoBehaviour {
 	//sp = new SerialPort("/dev/tty.usbmodem1451", 9600);
 	static string serialReading;
 	public static bool buttonState = false;
+	public static bool missingLeg = false;
 	
 	public bool serialConnected;
 	public static bool powerStoneOn = true;
-	
+	private bool prevMissing = false;
+	private bool prevButtonReding = false;
+
 	private Animator niffAnim;
 
 	private void Awake()
@@ -54,39 +57,50 @@ public class NiffUserControl : MonoBehaviour {
 				if(serialReading.Length == 8){
 					int serialMode = 0;
 					bool missing = false;
-					if(serialReading[1] == 1 || serialReading[4] == 1){
+					bool buttonReading;
+					if(serialReading[1] == '1' || serialReading[4] == '1'){
 						if(serialReading[1] == serialReading[4]){
 							serialMode = 0;
 						}
-						else if(serialReading[2] == 1 || serialReading[5] == 1){
+						else if(serialReading[2] == '1' || serialReading[5] == '1'){
 							serialMode = 4;
 						}
-						else if(serialReading[3] == 1 || serialReading[6] == 1){
+						else if(serialReading[3] == '1' || serialReading[6] == '1'){
 							serialMode = 3;
 						}
 						else{
 							missing = true;
 						}
 					}
-					else if(serialReading[2] == 1 || serialReading[5] == 1){
+					else if(serialReading[2] == '1' || serialReading[5] == '1'){
 						if(serialReading[2] == serialReading[5]){
 							serialMode = 2;
 						}
-						else if(serialReading[3] == 1 || serialReading[6] == 1){
+						else if(serialReading[3] == '1' || serialReading[6] == '1'){
 							serialMode = 5;
 						}
 						else{
 							missing = true;
 						}
 					}
-					else if(serialReading[3] == 1 || serialReading[6] == 1){
+					else if(serialReading[3] == '1' || serialReading[6] == '1'){
 						if(serialReading[3] == serialReading[6]){
-							serialMode = 1;
+							serialMode = '1';
 						}
 						else{
 							missing = true;
 						}
 					}
+					if(serialReading[7] == '1'){
+						buttonReading = true;
+					}
+					else{
+						buttonReading = false;
+					}
+					NiffCharacter.mode = (NiffCharacter.Mode)(serialMode);
+					if(missing == true && prevMissing == true)
+						missingLeg = true;
+					prevMissing = missing;
 				}
 
 
