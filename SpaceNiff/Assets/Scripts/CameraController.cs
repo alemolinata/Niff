@@ -31,6 +31,6 @@ public class CameraController : MonoBehaviour
 		targetY = Mathf.Clamp(targetY, minY, maxY);
 		
 		// Set the camera's position to the target position with the same z component.
-		transform.position = new Vector3(player.position.x + 5, targetY, -1);
+		transform.position = new Vector3(player.position.x + 5, targetY, -5);
 	}
 }

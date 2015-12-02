@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: d586fe6b247c145aa93493588c931ea2
+timeCreated: 1449046991
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: water_#[120,377]_0
+    21300002: water_#[120,377]_1
+    21300004: water_#[120,377]_2
+    21300006: water_#[120,377]_3
+    21300008: water_#[120,377]_4
+    21300010: water_#[120,377]_5
+    21300012: water_#[120,377]_6
+    21300014: water_#[120,377]_7
+    21300016: water_#[120,377]_8
+    21300018: water_#[120,377]_9
+    21300020: water_#[120,377]_10
+    21300022: water_#[120,377]_11
+    21300024: water_#[120,377]_12
+    21300026: water_#[120,377]_13
+    21300028: water_#[120,377]_14
+    21300030: water_#[120,377]_15
+    21300032: water_#[120,377]_16
+    21300034: water_#[120,377]_17
+    21300036: water_#[120,377]_18
+    21300038: water_#[120,377]_19
+    21300040: water_#[120,377]_20
+    21300042: water_#[120,377]_21
+    21300044: water_#[120,377]_22
+    21300046: water_#[120,377]_23
+    21300048: water_#[120,377]_24
+    21300050: water_#[120,377]_25
+    21300052: water_#[120,377]_26
+    21300054: water_#[120,377]_27
+    21300056: water_#[120,377]_28
+    21300058: water_#[120,377]_29
+    21300060: water_#[120,377]_30
+    21300062: water_#[120,377]_31
+    21300064: water_#[120,377]_32
+    21300066: water_#[120,377]_33
+    21300068: water_#[120,377]_34
+    21300070: water_#[120,377]_35
+    21300072: water_#[120,377]_36
+    21300074: water_#[120,377]_37
+    21300076: water_#[120,377]_38
+    21300078: water_#[120,377]_39
+    21300080: water_#[120,377]_40
+    21300082: water_#[120,377]_41
+    21300084: water_#[120,377]_42
+    21300086: water_#[120,377]_43
+    21300088: water_#[120,377]_44
+    21300090: water_#[120,377]_45
+    21300092: water_#[120,377]_46
+    21300094: water_#[120,377]_47
+    21300096: water_#[120,377]_48
+    21300098: water_#[120,377]_49
+    21300100: water_#[120,377]_50
+    21300102: water_#[120,377]_51
+    21300104: water_#[120,377]_52
+    21300106: water_#[120,377]_53
+    21300108: water_#[120,377]_54
+    21300110: water_#[120,377]_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: water_#[120,377]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2639
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2639
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2639
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2639
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2639
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2639
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2639
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2262
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2262
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2262
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2262
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2262
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2262
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2262
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1885
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1885
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1885
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1885
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1885
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1885
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1885
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1508
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1508
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1508
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1508
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1508
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1508
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1508
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1131
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1131
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1131
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1131
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1131
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1131
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1131
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 754
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 754
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 754
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 754
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 754
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 754
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 377
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 377
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 377
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 377
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 377
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_48
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 377
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_#[120,377]_55
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 120
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

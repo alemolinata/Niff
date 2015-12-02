@@ -1,13 +1,12 @@
 ﻿using UnityEngine;
-//using System.Collections;
+using System.Collections;
 using System.IO.Ports;
 
 [RequireComponent(typeof (NiffCharacter))]
 public class NiffUserControl : MonoBehaviour {
 
 	public bool serialConnected;
-	public SerialPort sp;
-	//sp = new SerialPort("/dev/tty.usbmodem1451", 9600);
+	public SerialPort sp = new SerialPort("/dev/cu.usbserial-DN00CXBV", 9600);
 	static string serialReading;
 
 	public static bool buttonState = false;
@@ -55,7 +54,10 @@ public class NiffUserControl : MonoBehaviour {
 		if (serialConnected) {
 			try {
 				serialReading = sp.ReadLine ();
-				if(serialReading.Length == 8){
+				print (serialReading);
+				//print (serialReading.Length);
+				if(serialReading.Length == 9 || serialReading.Length == 8){
+
 					int serialMode = 0;
 					bool missing = false;
 					bool buttonReading = false;
@@ -91,13 +93,13 @@ public class NiffUserControl : MonoBehaviour {
 						else
 							serialMode = 1;
 					}
-					if(serialReading[5] == '0'){
-						if(serialReading[6] == '0')
-							stoneReading = 0;
-						else
-							stoneReading = 1;
-					} else{
+					if(serialReading[5] == '1'){
 						stoneReading = 2;
+					} else{
+						if(serialReading[6] == '1')
+							stoneReading = 1;
+						else
+							stoneReading = 0;
 					}
 					if(serialReading[7] == '1'){
 						buttonReading = true;
@@ -110,6 +112,7 @@ public class NiffUserControl : MonoBehaviour {
 
 					if(missing == true && prevMissing == true)
 						missingLeg = true;
+					niffAnim.SetBool ("MissingLeg", missingLeg);
 					buttonState = buttonReading;
 					powerStone = stoneReading;
 
@@ -134,6 +137,21 @@ public class NiffUserControl : MonoBehaviour {
 			}
 			if (Input.GetKeyDown("3")){
 				int modeReading = 2;
+				NiffCharacter.mode = (NiffCharacter.Mode)(modeReading);
+				niffAnim.SetInteger ("NiffMode", modeReading);
+			}
+			if (Input.GetKeyDown("4")){
+				int modeReading = 3;
+				NiffCharacter.mode = (NiffCharacter.Mode)(modeReading);
+				niffAnim.SetInteger ("NiffMode", modeReading);
+			}
+			if (Input.GetKeyDown("5")){
+				int modeReading = 4;
+				NiffCharacter.mode = (NiffCharacter.Mode)(modeReading);
+				niffAnim.SetInteger ("NiffMode", modeReading);
+			}
+			if (Input.GetKeyDown("6")){
+				int modeReading = 5;
 				NiffCharacter.mode = (NiffCharacter.Mode)(modeReading);
 				niffAnim.SetInteger ("NiffMode", modeReading);
 			}

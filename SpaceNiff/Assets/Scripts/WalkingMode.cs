@@ -23,7 +23,7 @@ public class WalkingMode : MonoBehaviour {
 	}
 
 	void FixedUpdate(){
-		if (NiffUserControl.powerStone != 0 && !(niff.anim.GetCurrentAnimatorStateInfo(0).IsName("WalkingStoneOn") || niff.anim.GetCurrentAnimatorStateInfo(0).IsName("WalkingNoStonIdle") ))
+		if (NiffUserControl.powerStone != 0 && !NiffUserControl.missingLeg && !(niff.anim.GetCurrentAnimatorStateInfo(0).IsName("WalkingStoneOn") || niff.anim.GetCurrentAnimatorStateInfo(0).IsName("WalkingNoStonIdle") ))
 			Move (1f, NiffUserControl.buttonState);
 		else
 			Move (0f, false);
