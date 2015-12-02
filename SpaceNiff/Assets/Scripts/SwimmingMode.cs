@@ -29,7 +29,7 @@ public class SwimmingMode : MonoBehaviour {
 			transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.AngleAxis( 0, Vector3.forward),Time.deltaTime*4);
 		}
 
-		if (NiffUserControl.powerStoneOn && !(niff.anim.GetCurrentAnimatorStateInfo (0).IsName ("SwimmingStoneOn") || niff.anim.GetCurrentAnimatorStateInfo (0).IsName ("SwimmingNoStoneIdle"))) {
+		if (NiffUserControl.powerStone != 0 && !(niff.anim.GetCurrentAnimatorStateInfo (0).IsName ("SwimmingStoneOn") || niff.anim.GetCurrentAnimatorStateInfo (0).IsName ("SwimmingNoStoneIdle"))) {
 			if (NiffUserControl.buttonState && !(prevButtonState == NiffUserControl.buttonState)) {
 				//niffRB.velocity = new Vector2 (niffRB.velocity.x, 0);
 				niffRB.AddForce (new Vector2 (forceX, forceY));

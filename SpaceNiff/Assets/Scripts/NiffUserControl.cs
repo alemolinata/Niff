@@ -5,16 +5,17 @@ using System.IO.Ports;
 [RequireComponent(typeof (NiffCharacter))]
 public class NiffUserControl : MonoBehaviour {
 
+	public bool serialConnected;
 	public SerialPort sp;
 	//sp = new SerialPort("/dev/tty.usbmodem1451", 9600);
 	static string serialReading;
+
 	public static bool buttonState = false;
 	public static bool missingLeg = false;
-	
-	public bool serialConnected;
-	public static bool powerStoneOn = true;
+	public static int powerStone = 1;
+
 	private bool prevMissing = false;
-	private bool prevButtonReding = false;
+	private bool prevButtonReading = false;
 
 	private Animator niffAnim;
 
@@ -57,39 +58,46 @@ public class NiffUserControl : MonoBehaviour {
 				if(serialReading.Length == 8){
 					int serialMode = 0;
 					bool missing = false;
-					bool buttonReading;
-					if(serialReading[1] == '1' || serialReading[4] == '1'){
-						if(serialReading[1] == serialReading[4]){
-							serialMode = 0;
-						}
-						else if(serialReading[2] == '1' || serialReading[5] == '1'){
+					bool buttonReading = false;
+					int stoneReading = 0;
+
+					if(serialReading[1] == '1'){
+						if(serialReading[2] =='1')
 							serialMode = 4;
-						}
-						else if(serialReading[3] == '1' || serialReading[6] == '1'){
+						else if(serialReading[3] =='1')
 							serialMode = 3;
-						}
-						else{
+						else if(serialReading[4] =='1'){
+							serialMode = 0;
 							missing = true;
 						}
+						else
+							serialMode = 0;
 					}
-					else if(serialReading[2] == '1' || serialReading[5] == '1'){
-						if(serialReading[2] == serialReading[5]){
-							serialMode = 2;
-						}
-						else if(serialReading[3] == '1' || serialReading[6] == '1'){
+					else if(serialReading[2] == '1'){
+						if(serialReading[3] =='1')
 							serialMode = 5;
-						}
-						else{
+						else if(serialReading[4] =='1'){
+							serialMode = 2;
 							missing = true;
 						}
+						else
+							serialMode = 2;
 					}
-					else if(serialReading[3] == '1' || serialReading[6] == '1'){
-						if(serialReading[3] == serialReading[6]){
-							serialMode = '1';
-						}
-						else{
+					else if(serialReading[3] == '1'){
+						if(serialReading[4] =='1'){
+							serialMode = 1;
 							missing = true;
 						}
+						else
+							serialMode = 1;
+					}
+					if(serialReading[5] == '0'){
+						if(serialReading[6] == '0')
+							stoneReading = 0;
+						else
+							stoneReading = 1;
+					} else{
+						stoneReading = 2;
 					}
 					if(serialReading[7] == '1'){
 						buttonReading = true;
@@ -98,21 +106,15 @@ public class NiffUserControl : MonoBehaviour {
 						buttonReading = false;
 					}
 					NiffCharacter.mode = (NiffCharacter.Mode)(serialMode);
+					niffAnim.SetInteger ("NiffMode", serialMode);
+
 					if(missing == true && prevMissing == true)
 						missingLeg = true;
+					buttonState = buttonReading;
+					powerStone = stoneReading;
+
 					prevMissing = missing;
 				}
-
-
-				string[] stringReadings = serialReading.Split (',');
-				if(stringReadings [0]=="1")
-					buttonState = true;
-				else
-					buttonState = false;
-				int modeReading = System.Int32.Parse (stringReadings [1]);
-				NiffCharacter.mode = (NiffCharacter.Mode)(modeReading);
-				niffAnim.SetInteger ("NiffMode", modeReading);
-				//print(serialReading);
 			} catch (System.Exception) {
 			}
 		} else {
@@ -136,8 +138,8 @@ public class NiffUserControl : MonoBehaviour {
 				niffAnim.SetInteger ("NiffMode", modeReading);
 			}
 			if(Input.GetKeyDown("z")){
-				powerStoneOn = !powerStoneOn;
-				niffAnim.SetBool("PowerStoneOn", powerStoneOn);
+				powerStone = (powerStone < 2) ? powerStone + 1 : 0;  
+				niffAnim.SetInteger("PowerStone", powerStone);
 				niffAnim.SetTrigger("PowerStoneChange");
 			}
 		}

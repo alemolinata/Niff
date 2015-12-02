@@ -37,8 +37,6 @@ public class NiffCharacter : MonoBehaviour {
 	private float forceFactor;
 	private Vector3 actionPoint;
 	private Vector3 uplift;
-	
-
 
 	private void Awake() {
 		walkingMode = GetComponent<WalkingMode> ();

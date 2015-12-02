@@ -21,7 +21,7 @@ public class FlyingMode : MonoBehaviour {
 	}
 
 	void FixedUpdate() {
-		if (NiffUserControl.powerStoneOn && !(niff.anim.GetCurrentAnimatorStateInfo (0).IsName ("FlyingStoneOn") || niff.anim.GetCurrentAnimatorStateInfo (0).IsName ("FlyinNoStoneIdle"))) {
+		if (NiffUserControl.powerStone != 0 && !(niff.anim.GetCurrentAnimatorStateInfo (0).IsName ("FlyingStoneOn") || niff.anim.GetCurrentAnimatorStateInfo (0).IsName ("FlyinNoStoneIdle"))) {
 			if (NiffUserControl.buttonState && !(prevButtonState == NiffUserControl.buttonState)) {
 				r.velocity = new Vector2 (r.velocity.x, 0);
 				r.AddForce (new Vector2 (forceX, forceY));
