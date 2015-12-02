@@ -49,14 +49,15 @@
      <Compile Include="Assets\Scripts\DestroyerScript.cs" />
      <Compile Include="Assets\Scripts\FlySwimMode.cs" />
      <Compile Include="Assets\Scripts\FlyingMode.cs" />
+     <Compile Include="Assets\Scripts\HorizontalTracker.cs" />
      <Compile Include="Assets\Scripts\NiffCharacter.cs" />
      <Compile Include="Assets\Scripts\NiffUserControl.cs" />
+     <Compile Include="Assets\Scripts\OverlayController.cs" />
      <Compile Include="Assets\Scripts\SpawnScript.cs" />
      <Compile Include="Assets\Scripts\SwimmingMode.cs" />
      <Compile Include="Assets\Scripts\WalkFlyMode.cs" />
      <Compile Include="Assets\Scripts\WalkSwimMode.cs" />
      <Compile Include="Assets\Scripts\WalkingMode.cs" />
-     <Compile Include="Assets\Scripts\WaterTracker.cs" />
      <None Include="Assets\Materials\Desaturation.shader" />
      <None Include="Assets\Materials\HSVDefault.shader" />
  <Reference Include="UnityEngine.UI">

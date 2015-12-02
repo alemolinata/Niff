@@ -2,15 +2,14 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NiffCharacter.cs">
     <Files>
-      <File FileName="Assets/Scripts/NiffUserControl.cs" Line="114" Column="50" />
-      <File FileName="Assets/Scripts/NiffCharacter.cs" Line="64" Column="31" />
+      <File FileName="Assets/Scripts/NiffUserControl.cs" Line="59" Column="5" />
+      <File FileName="Assets/Scripts/NiffCharacter.cs" Line="136" Column="4" />
       <File FileName="Assets/Scripts/SwimmingMode.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/WalkingMode.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/FlyingMode.cs" Line="24" Column="21" />
-      <File FileName="Assets/Scripts/WalkFlyMode.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/FlySwimMode.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/WalkSwimMode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FlyingMode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestroyerScript.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OverlayController.cs" Line="13" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

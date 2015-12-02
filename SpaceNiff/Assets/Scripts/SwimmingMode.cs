@@ -5,8 +5,8 @@ using System.Collections;
 public class SwimmingMode : MonoBehaviour {
 	private NiffCharacter niff;
 	Rigidbody2D niffRB;
-	public float forceX = 250;
-	public float forceY = -250;
+	public float forceX = 20;
+	public float forceY = -100;
 	private bool prevButtonState = false;
 
 	void Awake () {
@@ -22,7 +22,7 @@ public class SwimmingMode : MonoBehaviour {
 	}
 
 	void FixedUpdate () {
-		niffRB.velocity = new Vector2 (niffRB.velocity.x, Mathf.Clamp (niffRB.velocity.y, -10, 10));
+		niffRB.velocity = new Vector2 (niffRB.velocity.x, Mathf.Clamp (niffRB.velocity.y, -8, 6));
 		if (niff.inWater) {
 			transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.AngleAxis( niffRB.velocity.y*7, Vector3.forward),Time.deltaTime*4);
 		} else {
@@ -38,5 +38,7 @@ public class SwimmingMode : MonoBehaviour {
 			}
 			prevButtonState = NiffUserControl.buttonState;
 		}
+		else
+			niffRB.velocity = new Vector2(0, niffRB.velocity.y);
 	}
 }

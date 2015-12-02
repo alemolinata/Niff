@@ -23,14 +23,16 @@ public class WalkingMode : MonoBehaviour {
 	}
 
 	void FixedUpdate(){
-		if (NiffUserControl.powerStone != 0 && !NiffUserControl.missingLeg && !(niff.anim.GetCurrentAnimatorStateInfo(0).IsName("WalkingStoneOn") || niff.anim.GetCurrentAnimatorStateInfo(0).IsName("WalkingNoStonIdle") ))
-			Move (1f, NiffUserControl.buttonState);
+		if (NiffUserControl.powerStone != 0 && !NiffUserControl.missingLeg && !(niff.anim.GetCurrentAnimatorStateInfo (0).IsName ("WalkingStoneOn") || niff.anim.GetCurrentAnimatorStateInfo (0).IsName ("WalkingNoStonIdle"))){
+			if (niff.grounded) {
+				Move (1f, NiffUserControl.buttonState);
+			}
+		}
 		else
-			Move (0f, false);
+			r.velocity = new Vector2(0, r.velocity.y);
 	}
 
 	public void Move(float move, bool crouch){
-
 		if (crouch) {
 			niff.bodyCollider.offset = new Vector2 (0f, -0.6f);
 			if(touchBump)

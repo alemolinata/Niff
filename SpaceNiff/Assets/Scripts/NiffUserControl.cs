@@ -53,11 +53,12 @@ public class NiffUserControl : MonoBehaviour {
 	public void ReadSerial(){
 		if (serialConnected) {
 			try {
-				serialReading = sp.ReadLine ();
+				int serialByte = sp.ReadByte ();
+				serialReading = System.Convert.ToString (serialByte, 2);
 				print (serialReading);
-				//print (serialReading.Length);
-				if(serialReading.Length == 9 || serialReading.Length == 8){
 
+				//if(serialReading > 127 && serialReading < 256){
+				if(serialReading.Length ==8 ){
 					int serialMode = 0;
 					bool missing = false;
 					bool buttonReading = false;
@@ -112,6 +113,8 @@ public class NiffUserControl : MonoBehaviour {
 
 					if(missing == true && prevMissing == true)
 						missingLeg = true;
+					else
+						missingLeg = false;
 					niffAnim.SetBool ("MissingLeg", missingLeg);
 					buttonState = buttonReading;
 					powerStone = stoneReading;
@@ -156,9 +159,13 @@ public class NiffUserControl : MonoBehaviour {
 				niffAnim.SetInteger ("NiffMode", modeReading);
 			}
 			if(Input.GetKeyDown("z")){
-				powerStone = (powerStone < 2) ? powerStone + 1 : 0;  
+				powerStone = (powerStone == 1) ? 0 : 1;  
 				niffAnim.SetInteger("PowerStone", powerStone);
 				niffAnim.SetTrigger("PowerStoneChange");
+			}
+			if(Input.GetKeyDown("x")){
+				missingLeg =! missingLeg;
+				niffAnim.SetBool ("MissingLeg", missingLeg);
 			}
 		}
 		niffAnim.SetBool ("Action", buttonState);

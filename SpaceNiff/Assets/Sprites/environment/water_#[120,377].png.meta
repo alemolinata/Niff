@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: d586fe6b247c145aa93493588c931ea2
-timeCreated: 1449046991
+timeCreated: 1449083952
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -114,7 +114,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_1
       rect:
@@ -124,7 +124,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_2
       rect:
@@ -134,7 +134,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_3
       rect:
@@ -144,7 +144,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_4
       rect:
@@ -154,7 +154,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_5
       rect:
@@ -164,7 +164,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_6
       rect:
@@ -174,7 +174,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_7
       rect:
@@ -184,7 +184,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_8
       rect:
@@ -194,7 +194,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_9
       rect:
@@ -204,7 +204,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_10
       rect:
@@ -214,7 +214,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_11
       rect:
@@ -224,7 +224,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_12
       rect:
@@ -234,7 +234,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_13
       rect:
@@ -244,7 +244,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_14
       rect:
@@ -254,7 +254,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_15
       rect:
@@ -264,7 +264,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_16
       rect:
@@ -274,7 +274,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_17
       rect:
@@ -284,7 +284,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_18
       rect:
@@ -294,7 +294,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_19
       rect:
@@ -304,7 +304,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_20
       rect:
@@ -314,7 +314,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_21
       rect:
@@ -324,7 +324,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_22
       rect:
@@ -334,7 +334,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_23
       rect:
@@ -344,7 +344,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_24
       rect:
@@ -354,7 +354,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_25
       rect:
@@ -364,7 +364,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_26
       rect:
@@ -374,7 +374,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_27
       rect:
@@ -384,7 +384,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_28
       rect:
@@ -394,7 +394,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_29
       rect:
@@ -404,7 +404,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_30
       rect:
@@ -414,7 +414,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_31
       rect:
@@ -424,7 +424,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_32
       rect:
@@ -434,7 +434,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_33
       rect:
@@ -444,7 +444,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_34
       rect:
@@ -454,7 +454,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_35
       rect:
@@ -464,7 +464,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_36
       rect:
@@ -474,7 +474,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_37
       rect:
@@ -484,7 +484,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_38
       rect:
@@ -494,7 +494,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_39
       rect:
@@ -504,7 +504,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_40
       rect:
@@ -514,7 +514,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_41
       rect:
@@ -524,7 +524,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_42
       rect:
@@ -534,7 +534,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_43
       rect:
@@ -544,7 +544,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_44
       rect:
@@ -554,7 +554,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_45
       rect:
@@ -564,7 +564,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_46
       rect:
@@ -574,7 +574,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_47
       rect:
@@ -584,7 +584,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_48
       rect:
@@ -594,7 +594,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_49
       rect:
@@ -604,7 +604,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_50
       rect:
@@ -614,7 +614,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_51
       rect:
@@ -624,7 +624,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_52
       rect:
@@ -634,7 +634,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: water_#[120,377]_53
       rect:
@@ -644,27 +644,7 @@ TextureImporter:
         width: 120
         height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: water_#[120,377]_54
-      rect:
-        serializedVersion: 2
-        x: 600
-        y: 0
-        width: 120
-        height: 377
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: water_#[120,377]_55
-      rect:
-        serializedVersion: 2
-        x: 720
-        y: 0
-        width: 120
-        height: 377
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

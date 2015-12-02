@@ -12,6 +12,7 @@ public class NiffCharacter : MonoBehaviour {
 	WalkSwimMode walkSwimMode;
 	FlySwimMode flySwimMode;
 
+	public bool shouldDie;
 	public Animator anim;
 
 	private Rigidbody2D r;
@@ -24,8 +25,6 @@ public class NiffCharacter : MonoBehaviour {
 	public bool ceilingHit = false;
 	public bool inWater = false;
 
-	public GameObject groundOverlay;
-
 	[SerializeField] private LayerMask whatIsGround; // A mask determining what is ground to the character
 	[SerializeField] private LayerMask whatIsWater; // A mask determining what is water to the character
 	public Transform groundCheck; // A position marking where to check if the player is grounded.
@@ -33,11 +32,12 @@ public class NiffCharacter : MonoBehaviour {
 	public Transform ceilingCheck; // A position marking where to check for ceilings
 	private float ceilingRadius = .01f; // Radius of the overlap circle to determine if the player can stand up
 
-	public float waterLevel =  -3.16f;
-	float floatHeight = 2f;
+	public float waterLevel =  -5f;
+	float floatHeight = 5f;
 	float bounceDamp  = 0.05f;
 	Vector3 buoyancyCentreOffset;
-	
+
+	public OverlayController overlayController;
 
 	private float forceFactor;
 	private Vector3 actionPoint;
@@ -55,14 +55,10 @@ public class NiffCharacter : MonoBehaviour {
 		anim = GetComponent<Animator> ();
 		r = GetComponent<Rigidbody2D> ();
 		t = GetComponent<Transform> ();
-
 		//groundOverlay = GameObject.Find("MainCamera/GroundOverlay");
-		groundOverlay = GameObject.FindGameObjectsWithTag("Overlay")[0];
-		groundOverlay.SetActive(false);
 	}
 
 	void FixedUpdate(){
-
 		grounded = Physics2D.OverlapCircle (groundCheck.position, groundedRadius, whatIsGround);
 		ceilingHit = Physics2D.OverlapCircle(ceilingCheck.position, ceilingRadius, whatIsGround);
 		inWater = Physics2D.OverlapCircle(t.position, 1f, whatIsWater);
@@ -87,7 +83,7 @@ public class NiffCharacter : MonoBehaviour {
 			walkSwimMode.enabled = false;
 			flySwimMode.enabled = false;
 
-		} else if (mode == Mode.Flying) {
+		} else if (mode == Mode.Swimming) {
 			walkingMode.enabled = false;
 			flyingMode.enabled = false;
 			swimmingMode.enabled = true;
@@ -122,19 +118,28 @@ public class NiffCharacter : MonoBehaviour {
 		}
 
 		if (NiffUserControl.missingLeg) {
-			groundOverlay.SetActive (true);
+			overlayController.enableOverlay(true);
 		} else {
-			groundOverlay.SetActive (false);
+			overlayController.enableOverlay(false);
 		}
 
 		// Floating in Water
 		actionPoint = t.position;
 		forceFactor = 1f - ((actionPoint.y - waterLevel) / floatHeight);
+		float floatMultiplier = (mode == Mode.Swimming) ? 1f: 0.7f;
 		
 		if (forceFactor > 0f) 
 		{
-			uplift = -Physics.gravity * (forceFactor - r.velocity.y * bounceDamp);
+			uplift = -Physics.gravity * (forceFactor - r.velocity.y * bounceDamp)*floatMultiplier;
 			r.AddForceAtPosition(uplift, actionPoint);
+		}
+	}
+	void OnCollisionEnter2D (Collision2D coll){
+		if (shouldDie) {
+			if (coll.gameObject.tag == "Killer"){
+				overlayController.enableOverlay(true);
+				Destroy (gameObject);
+			}
 		}
 	}
 }
