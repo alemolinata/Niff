@@ -150,7 +150,7 @@ public class NiffCharacter : MonoBehaviour {
 	
 	void OnGUI()
 	{
-		GUILayout.Label("Score = " + 200 );
+		GUILayout.Label("Score = " + score );
 	}
 
 }
