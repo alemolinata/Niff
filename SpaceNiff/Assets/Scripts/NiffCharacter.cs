@@ -25,6 +25,8 @@ public class NiffCharacter : MonoBehaviour {
 	public bool ceilingHit = false;
 	public bool inWater = false;
 
+	int score = 0;
+
 	[SerializeField] private LayerMask whatIsGround; // A mask determining what is ground to the character
 	[SerializeField] private LayerMask whatIsWater; // A mask determining what is water to the character
 	public Transform groundCheck; // A position marking where to check if the player is grounded.
@@ -135,6 +137,9 @@ public class NiffCharacter : MonoBehaviour {
 		}
 	}
 	void OnCollisionEnter2D (Collision2D coll){
+		if (coll.gameObject.tag == "Coins") {
+			Destroy (coll.gameObject);
+		}
 		if (shouldDie) {
 			if (coll.gameObject.tag == "Killer"){
 				overlayController.enableOverlay(true);
@@ -142,4 +147,10 @@ public class NiffCharacter : MonoBehaviour {
 			}
 		}
 	}
+	
+	void OnGUI()
+	{
+		GUILayout.Label("Score = " + 200 );
+	}
+
 }
