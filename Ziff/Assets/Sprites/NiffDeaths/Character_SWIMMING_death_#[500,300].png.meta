@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: 8c06411bf01954b70b020eb5085dd9d1
+timeCreated: 1449615439
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character_SWIMMING_death_#[500,300]_0
+    21300002: Character_SWIMMING_death_#[500,300]_1
+    21300004: Character_SWIMMING_death_#[500,300]_2
+    21300006: Character_SWIMMING_death_#[500,300]_3
+    21300008: Character_SWIMMING_death_#[500,300]_4
+    21300010: Character_SWIMMING_death_#[500,300]_5
+    21300012: Character_SWIMMING_death_#[500,300]_6
+    21300014: Character_SWIMMING_death_#[500,300]_7
+    21300016: Character_SWIMMING_death_#[500,300]_8
+    21300018: Character_SWIMMING_death_#[500,300]_9
+    21300020: Character_SWIMMING_death_#[500,300]_10
+    21300022: Character_SWIMMING_death_#[500,300]_11
+    21300024: Character_SWIMMING_death_#[500,300]_12
+    21300026: Character_SWIMMING_death_#[500,300]_13
+    21300028: Character_SWIMMING_death_#[500,300]_14
+    21300030: Character_SWIMMING_death_#[500,300]_15
+    21300032: Character_SWIMMING_death_#[500,300]_16
+    21300034: Character_SWIMMING_death_#[500,300]_17
+    21300036: Character_SWIMMING_death_#[500,300]_18
+    21300038: Character_SWIMMING_death_#[500,300]_19
+    21300040: Character_SWIMMING_death_#[500,300]_20
+    21300042: Character_SWIMMING_death_#[500,300]_21
+    21300044: Character_SWIMMING_death_#[500,300]_22
+    21300046: Character_SWIMMING_death_#[500,300]_23
+    21300048: Character_SWIMMING_death_#[500,300]_24
+    21300050: Character_SWIMMING_death_#[500,300]_25
+    21300052: Character_SWIMMING_death_#[500,300]_26
+    21300054: Character_SWIMMING_death_#[500,300]_27
+    21300056: Character_SWIMMING_death_#[500,300]_28
+    21300058: Character_SWIMMING_death_#[500,300]_29
+    21300060: Character_SWIMMING_death_#[500,300]_30
+    21300062: Character_SWIMMING_death_#[500,300]_31
+    21300064: Character_SWIMMING_death_#[500,300]_32
+    21300066: Character_SWIMMING_death_#[500,300]_33
+    21300068: Character_SWIMMING_death_#[500,300]_34
+    21300070: Character_SWIMMING_death_#[500,300]_35
+    21300072: Character_SWIMMING_death_#[500,300]_36
+    21300074: Character_SWIMMING_death_#[500,300]_37
+    21300076: Character_SWIMMING_death_#[500,300]_38
+    21300078: Character_SWIMMING_death_#[500,300]_39
+    21300080: Character_SWIMMING_death_#[500,300]_40
+    21300082: Character_SWIMMING_death_#[500,300]_41
+    21300084: Character_SWIMMING_death_#[500,300]_42
+    21300086: Character_SWIMMING_death_#[500,300]_43
+    21300088: Character_SWIMMING_death_#[500,300]_44
+    21300090: Character_SWIMMING_death_#[500,300]_45
+    21300092: Character_SWIMMING_death_#[500,300]_46
+    21300094: Character_SWIMMING_death_#[500,300]_47
+    21300096: Character_SWIMMING_death_#[500,300]_48
+    21300098: Character_SWIMMING_death_#[500,300]_49
+    21300100: Character_SWIMMING_death_#[500,300]_50
+    21300102: Character_SWIMMING_death_#[500,300]_51
+    21300104: Character_SWIMMING_death_#[500,300]_52
+    21300106: Character_SWIMMING_death_#[500,300]_53
+    21300108: Character_SWIMMING_death_#[500,300]_54
+    21300110: Character_SWIMMING_death_#[500,300]_55
+    21300112: Character_SWIMMING_death_#[500,300]_56
+    21300114: Character_SWIMMING_death_#[500,300]_57
+    21300116: Character_SWIMMING_death_#[500,300]_58
+    21300118: Character_SWIMMING_death_#[500,300]_59
+    21300120: Character_SWIMMING_death_#[500,300]_60
+    21300122: Character_SWIMMING_death_#[500,300]_61
+    21300124: Character_SWIMMING_death_#[500,300]_62
+    21300126: Character_SWIMMING_death_#[500,300]_63
+    21300128: Character_SWIMMING_death_#[500,300]_64
+    21300130: Character_SWIMMING_death_#[500,300]_65
+    21300132: Character_SWIMMING_death_#[500,300]_66
+    21300134: Character_SWIMMING_death_#[500,300]_67
+    21300136: Character_SWIMMING_death_#[500,300]_68
+    21300138: Character_SWIMMING_death_#[500,300]_69
+    21300140: Character_SWIMMING_death_#[500,300]_70
+    21300142: Character_SWIMMING_death_#[500,300]_71
+    21300144: Character_SWIMMING_death_#[500,300]_72
+    21300146: Character_SWIMMING_death_#[500,300]_73
+    21300148: Character_SWIMMING_death_#[500,300]_74
+    21300150: Character_SWIMMING_death_#[500,300]_75
+    21300152: Character_SWIMMING_death_#[500,300]_76
+    21300154: Character_SWIMMING_death_#[500,300]_77
+    21300156: Character_SWIMMING_death_#[500,300]_78
+    21300158: Character_SWIMMING_death_#[500,300]_79
+    21300160: Character_SWIMMING_death_#[500,300]_80
+    21300162: Character_SWIMMING_death_#[500,300]_81
+    21300164: Character_SWIMMING_death_#[500,300]_82
+    21300166: Character_SWIMMING_death_#[500,300]_83
+    21300168: Character_SWIMMING_death_#[500,300]_84
+    21300170: Character_SWIMMING_death_#[500,300]_85
+    21300172: Character_SWIMMING_death_#[500,300]_86
+    21300174: Character_SWIMMING_death_#[500,300]_87
+    21300176: Character_SWIMMING_death_#[500,300]_88
+    21300178: Character_SWIMMING_death_#[500,300]_89
+    21300180: Character_SWIMMING_death_#[500,300]_90
+    21300182: Character_SWIMMING_death_#[500,300]_91
+    21300184: Character_SWIMMING_death_#[500,300]_92
+    21300186: Character_SWIMMING_death_#[500,300]_93
+    21300188: Character_SWIMMING_death_#[500,300]_94
+    21300190: Character_SWIMMING_death_#[500,300]_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character_SWIMMING_death_#[500,300]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3000
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3000
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3000
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3000
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3000
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3000
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3000
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2700
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2700
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2700
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_13
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2700
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_14
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2700
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_15
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2700
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_16
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2700
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_17
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2700
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2400
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2400
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2400
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_22
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2400
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_23
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2400
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_24
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2400
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_25
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2400
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_26
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2400
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2100
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2100
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2100
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_31
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2100
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_32
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2100
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2100
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_34
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2100
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_35
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2100
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1800
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_38
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1800
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_40
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1800
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_41
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1800
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_42
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1800
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_43
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1800
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1800
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1500
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1500
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_48
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_49
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1500
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_50
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1500
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_51
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1500
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_52
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1500
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_53
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1500
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1200
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_56
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1200
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_57
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1200
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_59
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1200
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_60
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1200
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_61
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1200
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_62
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1200
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 900
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 900
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_67
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 900
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_68
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 900
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_69
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 900
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_70
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 900
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_71
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 900
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_74
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_76
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 600
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_77
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 600
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_78
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 600
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_79
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 600
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_80
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 600
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_82
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_83
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 300
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_84
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_85
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 300
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_86
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 300
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_87
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 300
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_88
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 300
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_89
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 300
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_92
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_93
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_94
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_SWIMMING_death_#[500,300]_95
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

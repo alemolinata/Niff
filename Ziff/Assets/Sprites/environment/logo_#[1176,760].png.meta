@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: d653885000f8f4164a7ee987bf648e10
+timeCreated: 1449757976
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: logo_#[1176,760]_0
+    21300002: logo_#[1176,760]_1
+    21300004: logo_#[1176,760]_2
+    21300006: logo_#[1176,760]_3
+    21300008: logo_#[1176,760]_4
+    21300010: logo_#[1176,760]_5
+    21300012: logo_#[1176,760]_6
+    21300014: logo_#[1176,760]_7
+    21300016: logo_#[1176,760]_8
+    21300018: logo_#[1176,760]_9
+    21300020: logo_#[1176,760]_10
+    21300022: logo_#[1176,760]_11
+    21300024: logo_#[1176,760]_12
+    21300026: logo_#[1176,760]_13
+    21300028: logo_#[1176,760]_14
+    21300030: logo_#[1176,760]_15
+    21300032: logo_#[1176,760]_16
+    21300034: logo_#[1176,760]_17
+    21300036: logo_#[1176,760]_18
+    21300038: logo_#[1176,760]_19
+    21300040: logo_#[1176,760]_20
+    21300042: logo_#[1176,760]_21
+    21300044: logo_#[1176,760]_22
+    21300046: logo_#[1176,760]_23
+    21300048: logo_#[1176,760]_24
+    21300050: logo_#[1176,760]_25
+    21300052: logo_#[1176,760]_26
+    21300054: logo_#[1176,760]_27
+    21300056: logo_#[1176,760]_28
+    21300058: logo_#[1176,760]_29
+    21300060: logo_#[1176,760]_30
+    21300062: logo_#[1176,760]_31
+    21300064: logo_#[1176,760]_32
+    21300066: logo_#[1176,760]_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: logo_#[1176,760]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_1
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 4560
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_2
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 4560
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_3
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 4560
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_4
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 4560
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3800
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_6
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3800
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_7
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3800
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_8
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 3800
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_9
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 3800
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3040
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_11
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3040
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_12
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3040
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_13
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 3040
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_14
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 3040
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_16
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2280
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_17
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2280
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_18
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 2280
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_19
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 2280
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_21
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1520
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_22
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1520
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_23
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 1520
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_24
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 1520
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_26
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 760
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_27
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 760
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_28
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 760
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_29
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 760
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_31
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_32
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: logo_#[1176,760]_33
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 0
+        width: 1176
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
